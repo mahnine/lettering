@@ -1,0 +1,56 @@
+img {
+    border: 1px solid #ddd; /* Gray border */
+    border-radius: 4px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    width: 150px; /* Set a small width */
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);5
+    }
+
+
+.char1 {
+  color : red;
+  font-size: 4em;
+}
+
+.char2 {
+  color : blue;
+  font-size: 5em;
+}
+
+.char3 {
+  color: green;
+  font-size: 1em;
+}
+
+.char4 {
+  color: pink;
+  font-size: 4em;
+}
+
+.char6 {
+  font-family: helvetica;
+  color: blue;
+  font-size: 5em;
+}
+
+.char7 {
+  font-family: arial;
+  color: red;
+  font-size: 7em;
+}
+
+.char9 {
+  color: purple;
+  font-size: 2em;
+}
+
+.char10 {
+  font-family: comic;
+  color: pink;
+  font-size: 6em;
+  font-variant: small-caps;
+  font-style: italic;
+}
